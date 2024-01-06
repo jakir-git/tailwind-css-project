@@ -1,15 +1,26 @@
 {
   "name": "tailwind-css",
   "version": "1.0.0",
+<<<<<<< HEAD
+  "description": "Tailwind CSS Practice",
+=======
   "description": "Tailwind CSS",
+>>>>>>> 71b210555696b5ea349a345020586b5a83511aa0
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
   },
   "keywords": [],
+<<<<<<< HEAD
+  "author": "Md. Jakir Hosen",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^2.2.17"
+=======
   "author": "Jakir Hosen",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^2.2.19"
+>>>>>>> 71b210555696b5ea349a345020586b5a83511aa0
   }
 }
