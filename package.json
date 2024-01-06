@@ -1,13 +1,13 @@
 {
-  "name": "tailwind-playlist",
+  "name": "tailwind-css",
   "version": "1.0.0",
-  "description": "Tailwind CSS Playlist lessons by Learn with Sumit",
+  "description": "Tailwind CSS Practice",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
   },
   "keywords": [],
-  "author": "Learn with Sumit",
+  "author": "Md. Jakir Hosen",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^2.2.17"
