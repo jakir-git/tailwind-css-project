@@ -1,5 +1,9 @@
 node_modules
 .prettierrc
 .DS_store
+<<<<<<< HEAD
 typer
 script
+=======
+typer
+>>>>>>> 71b210555696b5ea349a345020586b5a83511aa0
